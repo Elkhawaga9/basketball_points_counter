@@ -6,7 +6,7 @@ class Homescreen extends StatefulWidget {
   @override
   State<Homescreen> createState() => HomescreenState();
 }
-
+// wala htghlt
 class HomescreenState extends State<Homescreen> {
   // Variables to store the scores for both teams
   int teamAScore = 0;
